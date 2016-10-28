@@ -33,7 +33,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-<hr>
+<hr>![](https://github.com/JUBJIBPIYAPATH/LAB-04/blob/master/444.PNG?raw=true)
 <hr>
 <hr>
 <hr>
