@@ -71,7 +71,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
-<hr>![]()
+<hr>![](https://github.com/JUBJIBPIYAPATH/LAB-04/blob/master/LAB4.1.PNG?raw=true)
 <hr>
 <hr>
 <hr>
