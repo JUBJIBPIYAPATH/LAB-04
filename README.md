@@ -45,7 +45,7 @@
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
-<hr>
+<hr>![](https://github.com/JUBJIBPIYAPATH/LAB-04/blob/master/LAB4.PNG?raw=true)
 <hr>
 <hr>
 <hr>
